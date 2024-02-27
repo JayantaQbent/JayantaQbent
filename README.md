@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 🙂, I'm Jayanta Karmakar</h1>
-<p align="center"><img width = "15%" align="center" src="https://komarev.com/ghpvc/?username=Jayanta-karmakar"></p>
+<p align="center"><img width = "15%" align="center" src="https://komarev.com/ghpvc/?username=JayantaQbent"></p>
 <h3 align="center">Experienced with Backend Java Development, Database Management</h3>
 
 <h4 align="center">Java Developer with a vast area of hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages with Solid Computer Application(CA) fundamentals. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Java Developer</h4>
@@ -58,7 +58,7 @@
 -->
 
  ## 🏆 Github Status
-<img  src="https://github-readme-stats.vercel.app/api?username=Jayanta-karmakar&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Jayanta-karmakar&theme=dark" width="48%" >
+<img  src="https://github-readme-stats.vercel.app/api?username=JayantaQbent&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=JayantaQbent&theme=dark" width="48%" >
 <br>
-<p align="center"> <a href="https://github.com/Jayanta-Karmakar"><img src="https://github-profile-trophy.vercel.app/?username=Jayanta-Karmakar&row=2&column=3&margin-w=15&margin-h=15&theme=gruvbox" alt="jayanta-karmakar" /></a> </p>
+<p align="center"> <a href="https://github.com/JayantaQbent"><img src="https://github-profile-trophy.vercel.app/?username=JayantaQbent&row=2&column=3&margin-w=15&margin-h=15&theme=gruvbox" alt="JayantaQbent" /></a> </p>
