@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi 🙂, I'm Jayanta Karmakar</h1>
+<h1 align="center">Hello 🙂, I'm Jayanta Karmakar</h1>
 <p align="center"><img width = "15%" align="center" src="https://komarev.com/ghpvc/?username=JayantaQbent"></p>
-<h3 align="center">Experienced with Backend Java Development, Database Management</h3>
+<h3 align="center">NOTE* This is My office account not Personal</h3>
 
 <h4 align="center">Java Developer with a vast area of hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages with Solid Computer Application(CA) fundamentals. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Java Developer</h4>
 
