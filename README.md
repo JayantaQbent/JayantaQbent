@@ -58,3 +58,19 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=JayantaQbent&theme=dark" width="48%" >
 <br>
 <p align="center"> <a href="https://github.com/JayantaQbent"><img src="https://github-profile-trophy.vercel.app/?username=JayantaQbent&row=2&column=3&margin-w=15&margin-h=15&theme=gruvbox" alt="JayantaQbent" /></a> </p>
+
+<div align="center">
+<a href="https://github.com/JayantaQbent">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JayantaQbent&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JayantaQbent&theme=2077" height="180em" />
+<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JayantaQbent&theme=2077" height="180em" /> -->
+<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JayantaQbent&theme=2077" height="180em" /> -->
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JayantaQbent&theme=2077" height="180em" />
+</div>
+
+<br/>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting+!+;+Let's+connect;I'm+always+down+to+collab+:)" alt="Typing SVG">
+  </a>
+</h3>
